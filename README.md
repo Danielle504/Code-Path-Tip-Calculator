@@ -1,8 +1,8 @@
 # Code-Path-Tip-Calculator
 A Swift app utilized to calculate the tip for a bill.
-# Pre-work - *Name of App Here*
+# Pre-work - Tippy
 
-Code-Path-Tip-Calculator is a tip calculator application for iOS.
+Tippy is a tip calculator application for iOS.
 
 Submitted by: Danielle Garsten
 
